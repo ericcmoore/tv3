@@ -2336,6 +2336,26 @@
     "Pack-Premium": "true"
   },
   {
+    "tvName": "True Sports\n",
+    "tvUrl": "https://ctrl.laotv.la/live/TSport1/index.m3u8",
+    "tvThumb": "",
+    "tvCategory": "SPORTS",
+    "tvIsPaid": "true",
+    "tvStatus": "",
+    "tvMsg": "",
+    "tvEPG": "",
+    "tvLogo": "",
+    "tvDescription": "True Sports",
+    "tvId": "25TrueSportss",
+    "tvNo": "23",
+    "tvCountry": "",
+    "tvRegion": "",
+    "Pack-Basic": "true",
+    "Pack-Standard": "true",
+    "Pack-Super": "true",
+    "Pack-Premium": "true"
+  },
+  {
     "tvName": "Canal Sports 1",
     "tvUrl": "http://starshare.live:8080/live/22550925/22550925/119874.ts",
     "tvThumb": "",
