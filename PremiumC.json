@@ -1,6 +1,6 @@
-﻿[
+[
     {
-      "tvName": "Session Greetings",
+      "tvName": " Happy Valentine",
       "tvUrl": "http://starshare.live:8080/live/22550925/22550925/224519.ts",
       "tvThumb": "",
       "tvCategory": "GIFT",
@@ -381,7 +381,7 @@
     },
     {
       "tvName": "AMC",
-      "tvUrl": "http://starshare.live:8080/live/22550925/22550925/709.ts ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2982.ts ",
       "tvThumb": "",
       "tvCategory": "DRAMA",
       "tvIsPaid": "true",
@@ -441,7 +441,7 @@
     },
     {
       "tvName": "Al Jazeera",
-      "tvUrl": "http://114312044867774890.ofd0208.xyz:80/play/birah812L/birahM62/774890.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2931.ts",
       "tvThumb": "",
       "tvCategory": "NEWS",
       "tvIsPaid": "true",
@@ -1347,7 +1347,7 @@
     },
     {
       "tvName": "CBS Reality",
-      "tvUrl": "http://live.maxcimo.com:8000/amazing213/231220222005/27787",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1359.ts",
       "tvThumb": "",
       "tvCategory": "lifestyle",
       "tvIsPaid": "true",
@@ -1367,7 +1367,7 @@
     },
     {
       "tvName": "CBS Justice ",
-      "tvUrl": "http://live.maxcimo.com:8000/amazing213/231220222005/27788",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1361.ts",
       "tvThumb": "",
       "tvCategory": "lifestyle",
       "tvIsPaid": "true",
@@ -2052,7 +2052,7 @@
     },
     {
       "tvName": "Food Network",
-      "tvUrl": "http://114312044867751854.ofd0208.xyz:80/play/birah812L/birahM62/751854.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1374.ts",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvIsPaid": "true",
@@ -2273,7 +2273,7 @@
     },
     {
       "tvName": "Boomerang",
-      "tvUrl": "http://114312044867781828.ofd0208.xyz:80/play/birah812L/birahM62/781828.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1701.ts",
       "tvThumb": "",
       "tvCategory": "KIDS",
       "tvIsPaid": "true",
@@ -2415,7 +2415,7 @@
     },
     {
       "tvName": "BBC UK",
-      "tvUrl": "http://185.243.7.13/play/live.php?mac=00:1A:79:45:5E:9A&stream=1104802&extension=ts&play_token=g6MyWALWhC",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1384.ts",
       "tvThumb": "",
       "tvCategory": "NEWS",
       "tvIsPaid": "true",
@@ -2433,6 +2433,108 @@
       "Pack-Super": "true",
       "Pack-Premium": "true"
     },
+   {
+      "tvName": "BBC WORLD NEWS",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1339.ts",
+      "tvThumb": "",
+      "tvCategory": "NEWS",
+      "tvIsPaid": "true",
+      "tvStatus": "alive",
+      "tvMsg": "",
+      "tvEPG": "",
+      "tvLogo": "",
+      "tvDescription": "DSTV: British Broadcasting Network World News",
+      "tvId": "19BBCW",
+      "tvNo": "18",
+      "tvCountry": "18",
+      "tvRegion": "18",
+      "Pack-Basic": "true",
+      "Pack-Standard": "true",
+      "Pack-Super": "true",
+      "Pack-Premium": "true"
+    },
+     {
+      "tvName": "BBC ONE 1",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1334.ts",
+      "tvThumb": "",
+      "tvCategory": "OTHERS",
+      "tvIsPaid": "true",
+      "tvStatus": "alive",
+      "tvMsg": "",
+      "tvEPG": "",
+      "tvLogo": "",
+      "tvDescription": " British Broadcasting Network(BBC) ONE 1",
+      "tvId": "19BBC1",
+      "tvNo": "18",
+      "tvCountry": "18",
+      "tvRegion": "18",
+      "Pack-Basic": "true",
+      "Pack-Standard": "true",
+      "Pack-Super": "true",
+      "Pack-Premium": "true"
+    },
+
+     {
+      "tvName": "BBC TWO 2",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1335.ts",
+      "tvThumb": "",
+      "tvCategory": "OTHERS",
+      "tvIsPaid": "true",
+      "tvStatus": "alive",
+      "tvMsg": "",
+      "tvEPG": "",
+      "tvLogo": "",
+      "tvDescription": " British Broadcasting Network(BBC) FOUR 2",
+      "tvId": "19BBC2",
+      "tvNo": "18",
+      "tvCountry": "18",
+      "tvRegion": "18",
+      "Pack-Basic": "true",
+      "Pack-Standard": "true",
+      "Pack-Super": "true",
+      "Pack-Premium": "true"
+    },
+  {
+      "tvName": "BBC FOUR 4",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1339.ts",
+      "tvThumb": "",
+      "tvCategory": "OTHERS",
+      "tvIsPaid": "true",
+      "tvStatus": "alive",
+      "tvMsg": "",
+      "tvEPG": "",
+      "tvLogo": "",
+      "tvDescription": " British Broadcasting Network(BBC) FOUR 4",
+      "tvId": "19BB4",
+      "tvNo": "18",
+      "tvCountry": "18",
+      "tvRegion": "18",
+      "Pack-Basic": "true",
+      "Pack-Standard": "true",
+      "Pack-Super": "true",
+      "Pack-Premium": "true"
+    },
+     {
+      "tvName": "BBC CBEEBIES",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1336.ts",
+      "tvThumb": "",
+      "tvCategory": "KIDS",
+      "tvIsPaid": "true",
+      "tvStatus": "alive",
+      "tvMsg": "",
+      "tvEPG": "",
+      "tvLogo": "",
+      "tvDescription": "DSTV: British Broadcasting Network World News",
+      "tvId": "19BBCW",
+      "tvNo": "18",
+      "tvCountry": "18",
+      "tvRegion": "18",
+      "Pack-Basic": "true",
+      "Pack-Standard": "true",
+      "Pack-Super": "true",
+      "Pack-Premium": "true"
+    },
+    
     {
       "tvName": "BET TV Africa",
       "tvUrl": "http://114312044867778662.ofd0208.xyz:80/play/birah812L/birahM62/778662.ts",
@@ -2536,7 +2638,7 @@
     },
     {
       "tvName": "CNN ",
-      "tvUrl": "http://starshare.live:8080/live/22550925/22550925/120863.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1342.ts",
       "AlttvUrl": "https://iam-ranapk.tk/TOFFE/play.m3u8?id=cnn",
       "tvThumb": "",
       "tvCategory": "NEWS",
@@ -2685,7 +2787,7 @@
       "tvMsg": "",
       "tvEPG": "",
       "tvLogo": "",
-      "tvDescription": "Canal Sports TV ",
+      "tvDescription": "CANALSports TV ",
       "tvId": "25canalsp2",
       "tvNo": "23",
       "tvCountry": "Nigeria",
@@ -2757,7 +2859,7 @@
     },
     {
       "tvName": "Canal+ Action C",
-      "tvUrl": "http://114312044867774127.ofd0208.xyz:80/play/birah812L/birahM62/774127.ts ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/68605.ts ",
       "AlttvUrl": "http://new-pro.tv:8080/99622282/etbVXafU6f/322127 ",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
@@ -2778,7 +2880,7 @@
     },
     {
       "tvName": "Canal+ Cinema Centre ",
-      "tvUrl": "  http://starshare.live:8080/live/22550925/22550925/119882.ts",
+      "tvUrl": "  http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/68603.ts",
       "AlttvUrl": "  http://new-pro.tv:8080/99622282/etbVXafU6f/322129",
       "tvThumb": "",
       "tvCategory": "MOVIES",
@@ -2820,7 +2922,7 @@
     },
     {
       "tvName": "Canal+ Elles Centre ",
-      "tvUrl": "http://114312044867775124.ofd0208.xyz:80/play/birah812L/birahM62/775124.ts ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/68601.ts",
       "AlttvUrl": "http://new-pro.tv:8080/99622282/etbVXafU6f/322133 ",
       "tvThumb": "",
       "tvCategory": "MOVIES",
@@ -2841,7 +2943,7 @@
     },
     {
       "tvName": "Canal + Family Centre ",
-      "tvUrl": "http://starshare.live:8080/live/22550925/22550925/119880.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/68608.ts",
       "AlttvUrl": "http://new-pro.tv:8080/99622282/etbVXafU6f/322131",
       "tvThumb": "",
       "tvCategory": "MOVIES",
@@ -3282,7 +3384,7 @@
     },
     {
       "tvName": "SuperSport Rugby ",
-      "tvUrl": "http://114312044867780057.ofd0208.xyz:80/play/birah812L/birahM62/780057.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/51411.ts",
       "tvThumb": "",
       "tvCategory": "SPORTS",
       "tvIsPaid": "true",
@@ -4582,7 +4684,7 @@
     },
     {
       "tvName": "ZEE CINEMA ",
-      "tvUrl": "http://metaip.tv:80/rezastar7/ucCIshvpYj/11005",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/6669.ts",
       "tvThumb": "",
       "tvCategory": "DRAMA",
       "tvIsPaid": "true",
@@ -4822,7 +4924,7 @@
     },
 {
       "tvName": "TOONAMI ",
-      "tvUrl": "http://114312044867781870.ofd0208.xyz:80/play/birah812L/birahM62/781870.ts",
+      "tvUrl": "http://4k.dmvisio.com:8080/nk90f48jo0/ixenki8ssa/2580",
       "tvThumb": "",
       "tvCategory": "KIDS",
       "tvIsPaid": "true",
@@ -4882,7 +4984,7 @@
     },
     {
       "tvName": "Disney Junior",
-      "tvUrl": "http://114312044867781834.ofd0208.xyz:80/play/birah812L/birahM62/781834.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1390.ts",
       "AltUrl": "http://103.99.249.139/disneyjunior/index.m3u8",
       "tvThumb": "",
       "tvCategory": "KIDS",
@@ -4923,7 +5025,7 @@
     },
     {
       "tvName": "Disney Channel",
-      "tvUrl": "http://114312044867773449.ofd0208.xyz:80/play/birah812L/birahM62/773449.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1389.ts",
       "tvThumb": "",
       "tvCategory": "KIDS",
       "tvIsPaid": "true",
@@ -4941,6 +5043,28 @@
       "Pack-Super": "true",
       "Pack-Premium": "true"
     },
+    
+     {
+      "tvName": "Disney XD",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1391.ts",
+      "tvThumb": "",
+      "tvCategory": "KIDS",
+      "tvIsPaid": "true",
+      "tvStatus": "Alive",
+      "tvMsg": "",
+      "tvEPG": "",
+      "tvLogo": "",
+      "tvDescription": "Disney Channel is a Cartoon Channel for Teens and Kids",
+      "tvId": "32xd",
+      "tvNo": "27",
+      "tvCountry": "United State",
+      "tvRegion": "America",
+      "Pack-Basic": "true",
+      "Pack-Standard": "true",
+      "Pack-Super": "true",
+      "Pack-Premium": "true"
+    },
+    
     {
       "tvName": "Disney Channel East UHD ",
       "tvUrl": "http://176.57.50.167:25461/536416/231244/21795 ",
@@ -4983,7 +5107,7 @@
     },
     {
       "tvName": "Discovery Channel HD",
-      "tvUrl": "http://114312044867781833.ofd0208.xyz:80/play/birah812L/birahM62/781833.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3025.ts",
       "tvThumb": "",
       "tvCategory": "NATURE",
       "tvIsPaid": "true",
@@ -5003,7 +5127,7 @@
     },
     {
       "tvName": "Fox Life HD",
-      "tvUrl": "http://live.maxcimo.com:8000/amazing213/231220222005/27761",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1355.ts",
       "tvThumb": "",
       "tvCategory": "MOVIES",
       "tvIsPaid": "true",
@@ -5287,7 +5411,7 @@
     },
     {
       "tvName": "Nickelodeon",
-      "tvUrl": "http://114312044867779750.ofd0208.xyz:80/play/birah812L/birahM62/779750.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1392.ts",
       "tvThumb": "",
       "tvCategory": "KIDS",
       "tvIsPaid": "true",
@@ -5347,7 +5471,7 @@
     },
     {
       "tvName": "NICK JR",
-      "tvUrl": "http://live.maxcimo.com:8000/amazing213/231220222005/27767",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1393.ts",
       "tvThumb": "",
       "tvCategory": "KIDS",
       "tvIsPaid": "true",
@@ -5367,7 +5491,7 @@
     },
     {
       "tvName": "Cartoon Network ",
-      "tvUrl": "http://114312044867782593.ofd0208.xyz:80/play/birah812L/birahM62/782593.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2949.ts",
       "tvThumb": "",
       "tvCategory": "KIDS",
       "tvIsPaid": "true",
@@ -5415,7 +5539,7 @@
       "tvMsg": "",
       "tvEPG": "",
       "tvLogo": "",
-      "tvDescription": "Cartoon Network Kids Show",
+      "tvDescription": "Kids Show",
       "tvId": "40Ceebees",
       "tvNo": "27",
       "tvCountry": "United State",
@@ -5528,7 +5652,7 @@
     },
     {
       "tvName": "MTV ",
-      "tvUrl": "http://114312044867773452.ofd0208.xyz:80/play/birah812L/birahM62/773452.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/4849.ts",
       "tvThumb": "",
       "tvCategory": "MUSIC",
       "tvSubCat": "",
@@ -5570,7 +5694,7 @@
     },
     {
       "tvName": "MTV Base ",
-      "tvUrl": "http://starshare.live:8080/live/22550925/22550925/137669.ts ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2944.ts ",
       "tvThumb": "",
       "tvCategory": "MUSIC",
       "tvSubCat": "",
@@ -5591,7 +5715,7 @@
     },
     {
       "tvName": "MTV Live ",
-      "tvUrl": "http://magi-stv.net:8080/gustavomarroquin01/TGnR7xYrKYHg/2098822 ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2943.ts",
       "tvThumb": "",
       "tvCategory": "MUSIC",
       "tvSubCat": "",
@@ -5612,7 +5736,7 @@
     },
     {
       "tvName": "MTV Hits ",
-      "tvUrl": "http://114312044867781847.ofd0208.xyz:80/play/birah812L/birahM62/781847.ts ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1703.ts ",
       "tvThumb": "",
       "tvCategory": "MUSIC",
       "tvSubCat": "",
@@ -5633,7 +5757,7 @@
     },
  {
       "tvName": "MTV MUSIC 24  ",
-      "tvUrl": "http://114312044867781848.ofd0208.xyz:80/play/birah812L/birahM62/781848.ts ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2942.ts",
       "tvThumb": "",
       "tvCategory": "MUSIC",
       "tvSubCat": "",
@@ -5696,7 +5820,7 @@
     },
     {
       "tvName": "MTV 90s",
-      "tvUrl": "http://magi-stv.net:8080/gustavomarroquin01/TGnR7xYrKYHg/2145708 ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/52286.ts ",
       "tvThumb": "",
       "tvCategory": "MUSIC",
       "tvSubCat": "",
@@ -6032,7 +6156,7 @@
     },
     {
       "tvName": "VOX Afrique ",
-      "tvUrl": "http://magic-tv.live:2095/scwNcFCEzP/6HPUyR8Wnz/135617",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3513.ts",
       "tvThumb": "",
       "tvCategory": "MUSIC",
       "tvIsPaid": "true",
@@ -6256,7 +6380,7 @@
     },
     {
       "tvName": "E! Entertainment ",
-      "tvUrl": "http://114312044867780934.ofd0208.xyz:80/play/birah812L/birahM62/780934.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1351.ts",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvIsPaid": "true",
@@ -6296,7 +6420,7 @@
     },
     {
       "tvName": "TLC Channel ",
-      "tvUrl": "http://starshare.live:8080/live/22550925/22550925/158003.ts ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1695.ts ",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvIsPaid": "true",
@@ -6316,7 +6440,7 @@
     },
     {
       "tvName": "History",
-      "tvUrl": "http://live.maxcimo.com:8000/amazing213/231220222005/27782",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1373.ts",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvIsPaid": "true",
@@ -6556,7 +6680,7 @@
     },
     {
       "tvName": "Al Mouridiyyah",
-      "tvUrl": "http://magic-tv.live:2095/scwNcFCEzP/6HPUyR8Wnz/135674",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3477.ts",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvIsPaid": "true",
@@ -6695,7 +6819,7 @@
       "Pack-Premium": "true"
     },
     {
-      "tvName": "Touba Tv",
+      "tvName": "Touba   Tv",
       "tvUrl": "http://magic-tv.live:2095/scwNcFCEzP/6HPUyR8Wnz/135574",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
@@ -6916,7 +7040,7 @@
     },
     {
       "tvName": "Espace TV ",
-      "tvUrl": "http://114312044867778916.ofd0208.xyz:80/play/birah812L/birahM62/778916.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3543.ts",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvIsPaid": "true",
@@ -6996,7 +7120,7 @@
     },
     {
       "tvName": "Vision 4 TV",
-      "tvUrl": "http://114312044867774898.ofd0208.xyz:80/play/birah812L/birahM62/774898.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3502.ts",
       "tvThumb": "",
       "tvCategory": "NEWS",
       "tvIsPaid": "true",
@@ -7617,7 +7741,7 @@
     },
     {
       "tvName": "RTI 1",
-      "tvUrl": "http://magic-tv.live:2095/scwNcFCEzP/6HPUyR8Wnz/135656",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/68609.ts",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvIsPaid": "true",
@@ -7637,7 +7761,7 @@
     },
 {
       "tvName": "RTI 2",
-      "tvUrl": "http://114312044867774906.ofd0208.xyz:80/play/birah812L/birahM62/774906.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3486.ts",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvIsPaid": "true",
@@ -8057,7 +8181,7 @@
     },
     {
       "tvName": "TFM",
-      "tvUrl": "http://magic-tv.live:2095/scwNcFCEzP/6HPUyR8Wnz/135682",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3490.ts",
       "tvThumb": "",
       "tvCategory": "OTHERS",
       "tvIsPaid": "true",
@@ -8077,7 +8201,7 @@
     },
     {
       "tvName": "TFM  Religions",
-      "tvUrl": "http://magic-tv.live:2095/scwNcFCEzP/6HPUyR8Wnz/135681",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3491.ts",
       "tvThumb": "",
       "tvCategory": "OTHERS",
       "tvIsPaid": "true",
@@ -8097,7 +8221,7 @@
     },
     {
       "tvName": "A2i Music TV",
-      "tvUrl": "http://magic-tv.live:2095/scwNcFCEzP/6HPUyR8Wnz/135677",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3489.ts",
       "tvThumb": "",
       "tvCategory": "OTHERS",
       "tvIsPaid": "true",
@@ -8137,7 +8261,7 @@
     },
     {
       "tvName": "A2ITV",
-      "tvUrl": "http://magic-tv.live:2095/scwNcFCEzP/6HPUyR8Wnz/135634",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3487.ts",
       "tvThumb": "",
       "tvCategory": "OTHERS",
       "tvIsPaid": "true",
@@ -8217,7 +8341,7 @@
     },
     {
       "tvName": "Walf",
-      "tvUrl": "http://114312044867777124.ofd0208.xyz:80/play/birah812L/birahM62/777124.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/3497.ts",
       "tvThumb": "",
       "tvCategory": "OTHERS",
       "tvIsPaid": "true",
@@ -9098,8 +9222,8 @@
       "Pack-Premium": "true"
     },
     {
-      "tvName": "MBC 2 FHD",
-      "tvUrl": "http://metaip.tv:80/rezastar7/ucCIshvpYj/4526",
+      "tvName": "MBC 2 ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/150.ts",
       "tvThumb": "https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png",
       "tvCategory": "MOVIES",
       "tvIsPaid": "true",
@@ -9107,8 +9231,29 @@
       "tvMsg": "MBC ",
       "tvEPG": "",
       "tvLogo": "https://upload.wikimedia.org/wikipedia/en/0/03/MBC_2_HD_logo.png",
-      "tvDescription": "MBC Mars TV series",
+      "tvDescription": "MBC 2 TV series",
       "tvId": "MBC262",
+      "tvNo": "27",
+      "tvCountry": "Arabic",
+      "tvRegion": "America",
+      "Pack-Basic": "false",
+      "Pack-Standard": "true",
+      "Pack-Super": "true",
+      "Pack-Premium": "true"
+    },
+    
+   {
+      "tvName": "MBC Max",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/169.ts",
+      "tvThumb": "",
+      "tvCategory": "MOVIES",
+      "tvIsPaid": "true",
+      "tvStatus": "Alive",
+      "tvMsg": "MBC ",
+      "tvEPG": "",
+      "tvLogo": "",
+      "tvDescription": "MBC Max TV series",
+      "tvId": "MBC262max",
       "tvNo": "27",
       "tvCountry": "Arabic",
       "tvRegion": "America",
@@ -9119,7 +9264,7 @@
     },
     {
       "tvName": "MBC ACTION ",
-      "tvUrl": "http://starshare.live:8080/live/22550925/22550925/896.ts",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/154.ts",
       "tvThumb": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/MBC_Action_TV_Channel_Logo.png/1200px-MBC_Action_TV_Channel_Logo.png",
       "tvCategory": "MOVIES",
       "tvIsPaid": "true",
@@ -15264,7 +15409,7 @@
     },
     {
       "tvName": "PARAMOUNT NETWORK ",
-      "tvUrl": "http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/16",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1360.ts",
       "tvThumb": "",
       "tvCategory": "MOVIES",
       "tvIsPaid": "true",
@@ -15404,7 +15549,7 @@
     },
     {
       "tvName": "Comedy Central ",
-      "tvUrl": "http://114312044867775803.ofd0208.xyz:80/play/birah812L/birahM62/775803.ts ",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/2985.ts",
       "tvThumb": "",
       "tvCategory": "KIDS",
       "tvIsPaid": "true",
@@ -15484,7 +15629,7 @@
     },
     {
       "tvName": "FOX News ",
-      "tvUrl": "http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/36",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1341.ts",
       "tvThumb": "",
       "tvCategory": "NEWS",
       "tvIsPaid": "true",
@@ -15804,7 +15949,7 @@
     },
     {
       "tvName": "Discovery ",
-      "tvUrl": "http://ttv.bz:80/xgennnnldfsdnvsdvidufvndasnn/TzGCKJYsl9/56",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1382.ts",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvSubCat": "Nature",
@@ -15945,7 +16090,7 @@
     },
     {
       "tvName": "National Geographic ",
-      "tvUrl": "http://live.maxcimo.com:8000/amazing213/231220222005/27777",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1378.ts",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvSubCat": "LIFESTYLE",
@@ -15966,7 +16111,7 @@
     },
     {
       "tvName": "NatGeo Wild ",
-      "tvUrl": "http://live.maxcimo.com:8000/amazing213/231220222005/27778",
+      "tvUrl": "http://obsfullhd.tv:25461/live/PHENIX_PROv3/kPkCTwXCnB86OUOSGHFIKodsghf7743HGHFD/1379.ts",
       "tvThumb": "",
       "tvCategory": "LIFESTYLE",
       "tvSubCat": "Nature",
