@@ -1,4 +1,4 @@
-﻿[
+[
     {
       "tvName": " Happy Valentine",
       "tvUrl": "http://starshare.live:8080/live/22550925/22550925/224519.ts",
@@ -10,7 +10,7 @@
       "tvEPG": "",
       "tvLogo": "",
       "tvDescription": "SPARK TV Session Greatings",
-      "tvId ": "1",
+      "tvId": "1",
       "tvNo": "1",
       "tvCountry": "Nigeria",
       "tvRegion": "Nigeria",
@@ -30,7 +30,7 @@
       "tvEPG": "",
       "tvLogo": "",
       "tvDescription": "Spark TV Advertising Channel",
-      "tvId ": "1",
+      "tvId": "1",
       "tvNo": "1",
       "tvCountry": "Nigeria",
       "tvRegion": "Nigeria",
@@ -2323,7 +2323,7 @@
       "tvStatus": "alive",
       "tvMsg": "",
       "tvEPG": "",
-      "tvLogo": "ogo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/33B.png",
+      "tvLogo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/33B.png",
       "tvDescription": "DSTV: Boomerang Cartoon",
       "tvId ": "17Boom",
       "tvNo": "16",
