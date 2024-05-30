@@ -5905,7 +5905,7 @@
     },
     {
       "tvName": "MTV U",
-      "tvUrl": "http://starshare.live:8080/live/22550925/22550925/3406.ts",
+      "tvUrl": "http://starshare.live:8080/live/Michelle123/Michelle123/3406.ts",
       "tvThumb": "",
       "tvCategory": "MUSIC",
       "tvSubCat": "",
@@ -5968,7 +5968,7 @@
     },
     {
       "tvName": "Sound City",
-      "tvUrl": "http://starshare.live:8080/live/22550925/22550925/19836.ts",
+      "tvUrl": "http://starshare.live:8080/live/Michelle123/Michelle123/19836.ts",
       "tvThumb": "",
       "tvCategory": "MUSIC",
       "tvSubCat": "",
@@ -5976,7 +5976,7 @@
       "tvStatus": "Alive",
       "tvMsg": "",
       "tvEPG": "",
-      "tvLogo": "",
+      "tvLogo": "https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MM2.png?width=50",
       "tvDescription": "Sound City Music ",
       "tvId": "44SoundCity",
       "tvNo": "27",
