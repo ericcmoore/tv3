@@ -1,4 +1,4 @@
-[
+﻿[
     {
       "tvName": " Happy Children's Day",
       "tvUrl": "http://starshare.live:8080/live/Michelle123/Michelle123/223960.ts",
@@ -361,7 +361,7 @@
     },
     {
       "tvName": "Afriwood Series ",
-      "tvUrl": "ttps://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8 ",
+      "tvUrl": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8 ",
       "tvThumb": "",
       "tvCategory": "DRAMA",
       "tvIsPaid": "true",
