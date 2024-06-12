@@ -1,4 +1,4 @@
-﻿[
+[
     {
       "tvName": " Happy Children's Day",
       "tvUrl": "http://starshare.live:8080/live/Michelle123/Michelle123/223960.ts",
@@ -3130,7 +3130,7 @@
       "tvMsg": "",
       "tvEPG": "",
       "tvLogo": "",
-      "tvDescription": "Moviedome Family,                  "tvId": "24",
+      "tvDescription": "Moviedome Family",                  "tvId": "24",
       "tvNo": "22",
       "tvCountry": "Nigeria",
       "tvRegion": "African",
@@ -5773,8 +5773,7 @@
       "Pack-Premium": "true"
     },
     {
-      "tvName": "ZooMoo Kids
-",
+      "tvName": "ZooMoo Kids\r\n",
       "tvUrl": "https://zoomoo-samsungau.amagi.tv/playlist.m3u8",
       "tvThumb": "",
       "tvCategory": "KIDS",
@@ -5795,8 +5794,7 @@
       "Pack-Premium": "true"
     },
 {
-      "tvName": "Zoomer TV
-",
+      "tvName": "Zoomer TV\r\n",
       "tvUrl": "https://zoomer-localnow.amagi.tv/playlist.m3u8",
       "tvThumb": "",
       "tvCategory": "KIDS",
@@ -19417,8 +19415,7 @@
     },
 {
       "tvName": "TRACE Sports",
-      "tvUrl": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-",
+      "tvUrl": "https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8\r\n",
       "tvThumb": "",
       "tvCategory": "SPORTS",
       "tvSubCat": "Sports",
